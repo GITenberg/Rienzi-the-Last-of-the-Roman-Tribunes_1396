@@ -1,0 +1,38 @@
+_repo: Rienzi-the-Last-of-the-Roman-Tribunes_1396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: '"[T]he reader will perhaps find in these pages a more full and detailed
+  account of the rise and fall of Rienzi, than in any English work of which I am aware."
+  Cola di Rienzi (c. 1313-1354) was an Italian medieval politician and popular leader,
+  tribune of the Roman people in the mid-14th century who succeeds in outwitting and
+  then defeating the nobles and their followers and in raising the power of the people.
+  Magnanimous at first, he is forced by events to crush the nobles'' rebellion against
+  the people''s power, but popular opinion changes and even the Church, which has
+  earlier urged him to assert himself, turns against him. In the end the populace
+  burns the Capitol, in which Rienzi and a few adherents have made a last stand.'
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Rienzo, Cola di, d. 1354 -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: Rienzi, the Last of the Roman Tribunes
+url: http://www.gutenberg.org/ebooks/1396
