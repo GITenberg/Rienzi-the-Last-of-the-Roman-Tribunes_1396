@@ -1,5 +1,8 @@
 _repo: Rienzi-the-Last-of-the-Roman-Tribunes_1396
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -20,6 +23,8 @@ description: '"[T]he reader will perhaps find in these pages a more full and det
   the people''s power, but popular opinion changes and even the Church, which has
   earlier urged him to assert himself, turns against him. In the end the populace
   burns the Capitol, in which Rienzi and a few adherents have made a last stand.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1396#Rienzi-the-Last-of-the-Roman-Tribunes
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
